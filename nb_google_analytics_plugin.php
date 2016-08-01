@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: NewBits Google Analytics Code Injector
+Plugin Name: NewBits Google Analytics Plugin
 Plugin URI: http://www.runestenstroem.dk/2016/02/20/mobilbetaling-i-woocommerce/
 Description: This Plugin adds Google Analytics UA tracking code to your WordPress Website
 Version: 1.0
