@@ -13,10 +13,10 @@ msgstr ""
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Google Analytics Code Injector"
+msgid "Google Analytics"
 msgstr ""
 
-msgid "Google Code Injector by NewBits"
+msgid "Google Analytics Plugin by NewBits"
 msgstr ""
 
 msgid "General Options"

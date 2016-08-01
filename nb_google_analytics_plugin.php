@@ -44,9 +44,9 @@ class NB_Gaci {
 	function nb_gaci_add_settings_menu(){
 		add_submenu_page(
 			'options-general.php', 
-			__('Google Analytics Code Injector', 
+			__('Google Analytics', 
 			'nb_gaci' ), 
-			__('Google Analytics Code Injector', 
+			__('Google Analytics', 
 			'nb_gaci'), 'administrator', 
 			'nb_gaci',
 			array($this,'nb_gaci_settings_page')
@@ -58,7 +58,7 @@ class NB_Gaci {
 		<!-- Create a header in the default WordPress 'wrap' container -->
 		<div class="wrap">
 			<?php screen_icon('screen'); ?>
-			<h2><?php __("Google Code Injector by NewBits", "nb_gaci" ) ?> </h2>
+			<h2><?php __("Google Analytics Plugin by NewBits", "nb_gaci" ) ?> </h2>
 			<form method="post" action="options.php">
 				<?php settings_fields( 'nb_gaci_options' ); ?>
 				<?php do_settings_sections( 'nb_gaci_options' ); ?>         
