@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: NewBits Google Analytics Code Injector\n"
+"Project-Id-Version: Google Analytics Plugin by NewBits\n"
 "POT-Creation-Date: 2016-05-03 13:57+0200\n"
 "PO-Revision-Date: 2016-05-03 13:57+0200\n"
 "Last-Translator: \n"
