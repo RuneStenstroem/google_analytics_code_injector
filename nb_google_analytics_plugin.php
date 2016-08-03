@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Google Analytics Plugin by NewBits
+Plugin Name: Google Analytics Plugin
 Plugin URI: http://www.runestenstroem.dk/2016/08/01/google-analytics-plugin-wordpress/
 Description: This Plugin adds Google Analytics UA tracking code to your WordPress Website
 Version: 1.0
