@@ -19,7 +19,7 @@ class NB_Gaci {
     	add_action('admin_init', array($this,'nb_gaci_init_setting_page'));
 
     	add_action('wp_head', array($this,'add_google_analytics'));
-   	}
+     }
 
     //Default Values
     function nb_gaci_get_defaults(){
