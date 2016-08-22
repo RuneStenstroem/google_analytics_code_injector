@@ -1,5 +1,7 @@
 # Google Analytics Plugin for WorpPress
-Version 1.0, Tested with WordPress 4.6
+Version 1.0
+
+Tested with WordPress 4.6
 
 A simple plugin which insert the Google Analytics UA tracking code on your website.
 
